@@ -1,7 +1,7 @@
 from pathlib import Path
 from urllib.request import Request, urlopen
 
-URL = https://gist.githubusercontent.com/ryan337/29e76ed198731cd3965d3bda0db10781/raw/6339eb3452e965a36460a9ec9add3726a7e1b31c/Canais.m3u
+URL = "https://gist.githubusercontent.com/ryan337/29e76ed198731cd3965d3bda0db10781/raw/6339eb3452e965a36460a9ec9add3726a7e1b31c/Canais.m3u"
 DESTINO = Path("lista.m3u")
 
 def main():
