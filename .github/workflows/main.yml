@@ -25,9 +25,10 @@ jobs:
 
       - name: Salvar lista
         run: |
+          git fetch origin main
+          git reset --soft origin/main
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add lista.m3u
           git diff --cached --quiet && exit 0
           git commit -m "Atualiza lista M3U"
