@@ -1,0 +1,208 @@
+#EXTM3U
+#EXTINF:-1 group-title="ESPORTES", ESPN 2
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71923.ts
+#EXTINF:-1 group-title="ESPORTES", ESPN 3
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71910.ts
+#EXTINF:-1 group-title="ESPORTES", ESPN 4
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71961.ts
+#EXTINF:-1 group-title="ESPORTES", ESPN 5
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71956.ts
+#EXTINF:-1 group-title="ESPORTES", ESPN
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71914.ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 2
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72240.ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 3
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72244.ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 4
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72248.ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 5
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72252.ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 6
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72256.ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 7
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72260.ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE CLUBES
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72266.ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE CLUBES¹
+http://newoneblack.site:80/Iracibispo/25082016Ana/236246.ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 2¹
+http://newoneblack.site:80/Iracibispo/25082016Ana/236252.ts
+#EXTINF:-1 group-title="ESPORTES",PREMIERE 3¹
+http://newoneblack.site:80/Iracibispo/25082016Ana/236258.ts
+#EXTINF:-1 group-title="ESPORTES",ESTADIO TNT SPORT 01 HD¹ PPV
+http://newoneblack.site:80/Iracibispo/25082016Ana/232771.ts
+#EXTINF:-1 group-title="ESPORTES",MAX 01 HD¹
+http://newoneblack.site:80/Iracibispo/25082016Ana/234526.ts
+#EXTINF:-1 group-title="ESPORTES",MAX 2
+http://newoneblack.site:80/Iracibispo/25082016Ana/234528.ts
+#EXTINF:-1 group-title="ESPORTES",NOSSO FUTEBOL
+http://lojamais.cyou:80/789436242/139827149/1573830
+#EXTINF:-1 group-title="ESPORTES",AMAZON:
+http://lojamais.cyou:80/789436242/139827149/688349
+#EXTINF:-1 group-title="ESPORTES",MR OLYMPIA
+http://newoneblack.site:80/Iracibispo/25082016Ana/232891.ts
+#EXTINF:-2 group-title="DESENHO",OS SIMPSONS
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/135570.ts
+#EXTINF:-3 group-title="ABERTO",GLOBO ALAGOAS
+http://lojamais.cyou:80/789436242/139827149/407910
+#EXTINF:-3 group-title="ABERTO",GAZETA ALAGOAS
+http://newoneblack.site:80/Iracibispo/25082016Ana/234200.ts
+#EXTINF:-4 group-title="FILMES", CINEMAX
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71836.ts
+#EXTINF:-4 group-title="FILMES",Paramount Channel SD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72220.ts
+#EXTINF:-4 group-title="FILMES", TNT Series SD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72384.ts
+#EXTINF:-4 group-title="FILMES", CANAL SONY HD²
+http://newoneblack.site:80/Iracibispo/25082016Ana/438156.ts
+#EXTINF:-4 group-title="FILMES", CANAL SONY SD²
+http://newoneblack.site:80/Iracibispo/25082016Ana/438158.
+ts#EXTINF:-3 group-title="ABERTO", GLOBO SP
+http://newoneblack.site:80/Iracibispo/25082016Ana/234263.ts
+#EXTINF:-3 group-title="ABERTO", GLOBO SP
+http://newoneblack.site:80/Iracibispo/25082016Ana/234262.ts
+#EXTINF:-1 group-title="ESPORTES",Brasileirao Serie C 1 HD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/157408.ts
+#EXTINF:-1 group-title="ESPORTES",Brasileirao Serie C 1 FHD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/157407.ts
+#EXTINF:-5 group-title="FECHADO",CARTOON
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71832.ts
+#EXTINF:-5 group-title="FECHADO",CARTOON HD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71831.ts
+#EXTINF:-5 group-title=FECHADO",Discovery Channel SD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71866.ts
+#EXTINF:-5 group-title="FECHADO",Discovery Channel SD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71862.ts
+#EXTINF:-5 group-title="FECHADO",Disney + 1 HD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/128347.ts
+#EXTINF:-5 group-title="FECHADO", Disney + 1 SD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/142033.ts
+#EXTINF:-5 group-title="FECHADO", Disney + 2 HD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/142035.ts
+#EXTINF:-5 group-title="FECHADO", Disney + 3 HD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/129346.ts
+#EXTINF:-5 group-title="FECHADO", Animal Planet HD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71775.ts
+#EXTINF:-5 group-title="FECHADO", Animal Planet SD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/71776.ts
+#EXTINF:-5 group-title="FECHADO", H2 FHD [H265]
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72107.ts
+#EXTINF:-5 group-title="FECHADO", H2 HD²
+http://newoneblack.site:80/Iracibispo/25082016Ana/437979.ts
+#EXTINF:-5 group-title="FECHADO", Nickelodeon SD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72208.ts
+#EXTINF:-5 group-title="FECHADO", Nickelodeon HD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/72207.ts
+#EXTINF:-5 group-title="FECHADO", Adult Swim SD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/251959.ts
+#EXTINF:-5 group-title="FECHADO", Adult Swim HD
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/251958.ts
+#EXTINF:-5 group-title="FECHADO", Adult Swim H265
+http://tfqbu7.info:80/qD1ynxex/1369TBFUbhzu/251961.ts
+#EXTINF:-5 group-title="FECHADO", ADULT SWIM HD¹
+http://newoneblack.site:80/Iracibispo/25082016Ana/438371.ts
+#EXTINF:-5 group-title="FECHADO", ATAQUE DOS TITAS
+http://newoneblack.site:80/Iracibispo/25082016Ana/670910.ts
+#EXTINF:-5 group-title="FECHADO", ANIMESTATION
+http://newoneblack.site:80/Iracibispo/25082016Ana/670909.ts
+#EXTINF:-5 group-title="FECHADO", SUPER CAMPEÕES
+http://newoneblack.site:80/Iracibispo/25082016Ana/670913.ts
+#EXTINF:-3 group-title="ABERTO", TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-3 group-title="ABERTO", TV EVANGELIZAR
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-3 group-title="ABERTO", TV PADRE CICERO
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-3 group-title="ABERTO", BAND SP
+http://newoneblack.site:80/Upcine2031/upcine2031/236022.ts
+#EXTINF:-4 group-title="FILMES", SONY
+http://newoneblack.site:80/Upcine2031/upcine2031/438157.ts
+#EXTINF:-4 group-title="FILMES", SKY 1
+http://newoneblack.site:80/Upcine2031/upcine2031/235860.ts
+#EXTINF:-4 group-title="FILMES", SKY 2
+http://newoneblack.site:80/Upcine2031/upcine2031/235861.ts
+#EXTINF:-4 group-title="FILMES", SKY 3
+http://newoneblack.site:80/Upcine2031/upcine2031/235863.ts
+#EXTINF:-4 group-title="FILMES", DAZN
+http://newoneblack.site:80/Upcine2031/upcine2031/234961.ts
+#EXTINF:-1 group-title="ESPORTES",ESTADIO TNT SPORT 02 HD¹ PPV
+http://newoneblack.site:80/Upcine2031/upcine2031/232772.ts
+#EXTINF:-1 group-title="ESPORTES",ESTADIO TNT SPORT 03 HD¹ PPV
+http://newoneblack.site:80/Upcine2031/upcine2031/232773.ts
+#EXTINF:-1 group-title="ESPORTES",ESTADIO TNT SPORT 04 HD¹ PPV
+http://newoneblack.site:80/Upcine2031/upcine2031/232774.ts
+#EXTINF:-5 group-title="FECHADO", comedy central
+http://newoneblack.site:80/Upcine2031/upcine2031/235750.ts
+#EXTINF:-1 group-title="ESPORTES",Globo + ge
+http://newoneblack.site:80/Upcine2031/upcine2031/232887.ts
+#EXTINF:-1 group-title="ESPORTES",Globo + ge - 2
+http://newoneblack.site:80/Upcine2031/upcine2031/232888.ts
+#EXTINF:-5 group-title="FECHADO", HBO HD¹
+http://newoneblack.site:80/Upcine2031/upcine2031/438083.ts
+#EXTINF:-5 group-title="FECHADO", HBO HD 2
+http://newoneblack.site:80/Upcine2031/upcine2031/438091.ts
+#EXTINF:-1 group-title="ESPORTES", NBA LEAGUE PASS 01 (PPV)¹
+http://newoneblack.site:80/Upcine2031/upcine2031/233127.ts
+#EXTINF:-5 group-title="FECHADO",PRIME VIDEO AMAZON 02 HD¹
+http://newoneblack.site:80/Upcine2031/upcine2031/233398.ts
+#EXTINF:-5 group-title="FECHADO",PRIME VIDEO AMAZON 03 HD¹
+http://newoneblack.site:80/Upcine2031/upcine2031/233736.ts
+#EXTINF:-1 group-title="ESPORTES",PT-SPORTV 01 FHD
+http://newoneblack.site:80/Upcine2031/upcine2031/234941.ts
+#EXTINF:-1 group-title="ESPORTES",PT-SPORTING TV HD
+http://newoneblack.site:80/Upcine2031/upcine2031/234939.ts
+#EXTINF:-3 group-title="ABERTO",RECORD AL - PAJUÇARA HD
+http://newoneblack.site:80/Upcine2031/upcine2031/676604.ts
+#EXTINF:-3 group-title="ABERTO",SECULO 21
+http://newoneblack.site:80/Upcine2031/upcine2031/236036.ts
+#EXTINF:-3 group-title="ABERTO", PONTA VERDE
+http://newoneblack.site:80/Upcine2031/upcine2031/676682.ts
+#EXTINF:-1 group-title="ESPORTES",PT-SPORTV 01 FHD
+http://newoneblack.site:80/Upcine2031/upcine2031/231470.ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV 1 HD¹
+http://newoneblack.site:80/Upcine2031/upcine2031/236286.ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV 1 SD
+http://newoneblack.site:80/Upcine2031/upcine2031/236289.ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV 2 HD
+http://newoneblack.site:80/Upcine2031/upcine2031/236293.ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV 2 SD
+http://newoneblack.site:80/Upcine2031/upcine2031/236294.ts
+#EXTINF:-1 group-title="ESPORTES",SPORTV 3 SD
+http://newoneblack.site:80/Upcine2031/upcine2031/236300.ts
+#EXTINF:-5 group-title="FECHADO",SUPER CHOQUE
+http://newoneblack.site:80/Upcine2031/upcine2031/670755.ts
+#EXTINF:-5 group-title="FECHADO",TELECINE ACTION HD¹
+http://newoneblack.site:80/Upcine2031/upcine2031/438047.ts
+#EXTINF:-5 group-title="FECHADO",TELECINE PIPOCA HD²
+http://newoneblack.site:80/Upcine2031/upcine2031/438066.ts
+#EXTINF:-3 group-title="ABERTO", TV APARECIDA
+http://newoneblack.site:80/Upcine2031/upcine2031/236038.ts
+#EXTINF:-1 group-title="ESPORTES", UFC FIGHT PASS 1 HD
+http://newoneblack.site:80/Upcine2031/upcine2031/233137.ts
+#EXTINF:-1 group-title="ESPORTES", UFC FIGHT PASS 2 HD
+http://newoneblack.site:80/Upcine2031/upcine2031/233214.ts
+#EXTINF:-5 group-title="FECHADO", UNIVERSAL CHANNEL SD¹
+http://newoneblack.site:80/Upcine2031/upcine2031/438228.ts
+#EXTINF:-5 group-title="FECHADO", amazon 1
+http://noxcon.cfd:80/cihanbir/45hg89yu/821618
+#EXTINF:-5 group-title="FECHADO", amazon 2
+http://noxcon.cfd:80/cihanbir/45hg89yu/821619
+#EXTINF:-5 group-title="FECHADO", amazon 3
+http://noxcon.cfd:80/cihanbir/45hg89yu/821620
+#EXTINF:-5 group-title="FECHADO", amazon 4
+http://noxcon.cfd:80/cihanbir/45hg89yu/821621
+#EXTINF:-1 group-title="ESPORTES", combate
+http://noxcon.cfd:80/cihanbir/45hg89yu/821635
+#EXTINF:-1 group-title="ESPORTES", ESPN NOVO
+http://noxcon.cfd:80/cihanbir/45hg89yu/821636
+#EXTINF:-1 group-title="ESPORTES", FOX SPORTS
+http://noxcon.cfd:80/cihanbir/45hg89yu/821639
+#EXTINF:-5 group-title="FECHADO", STAR CHANNEL
+http://noxcon.cfd:80/cihanbir/45hg89yu/821670
+#EXTINF:-5 group-title="FECHADO", PARAMOUNT
+http://noxcon.cfd:80/cihanbir/45hg89yu/821674
+#EXTINF:-5 group-title="FECHADO", DISCOVERY SCIENCE
+http://noxcon.cfd:80/cihanbir/45hg89yu/821685
+#EXTINF:-5 group-title="FECHADO", NACIONAL GEOGRAPHIC
+http://noxcon.cfd:80/cihanbir/45hg89yu/821694
+
